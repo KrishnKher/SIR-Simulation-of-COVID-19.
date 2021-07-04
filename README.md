@@ -1,2 +1,2 @@
 # SIR-Simulation-of-COVID-19.
-A course project I had done in my fresher year.
+A course project I had done in my freshman year.
